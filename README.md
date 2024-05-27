@@ -1,7 +1,7 @@
 # OIBSIP - oasis infobyte internship
 Oasis infobyte python programming internship task files <br>
 I have done 3 tasks during the internship namely : <br>
-Task2 - BMI calculator <br>
+<b>Task2 - BMI calculator <br>
 PROBLEM STATEMENT : <br>
 Project Idea : BMI CALCULATOR <br>
 Project Description: <br>
@@ -16,7 +16,7 @@ Key Concepts and Challenges Satisfied: <br>
 3. Categorization: Classify BMI values into health categories based on predefined ranges. <br>
 4. GUI Design: Create an intuitive interface with labels, input fields, and result displays using Tkinter. <br>
 
-Task3 - random password generator <br>
+<b>Task3 - random password generator <br>
 PROBLEM STATEMENT : <br>
 Project Idea : Random Password Generator <br>
 Project Description : <br>
@@ -32,5 +32,17 @@ Key Concepts and Challenges Satisfied: <br>
 4. GUI Design: Create an intuitive and user-friendly interface for password generation. <br>
 5. Security Rules: Implement rules for generating strong, secure passwords. <br>
 6. Customization: Enable users to customize password generation further, e.g., excluding specific characters <br>
-Task4 - Basic weather app <br>
+
+<b>Task4 - Basic weather app <br>
+PROBLEM STATEMENT : <br>
+Project Idea : Basic Weather App
+Project Description :
+1. Creating a weather app in Python that fetches and displays current weather data for a user-specified location (e.g., city or ZIP code) using a weather API.
+2.Shows basic information such as temperature, humidity, and weather conditions.
+3.Developing a graphical weather app with a user-friendly interface (GUI) using libraries like Tkinter or PyQt.
+
+Key Concepts and Challenges Satisfied :
+1.API Integration: Connect to a weather API and parse JSON data.
+2.User Input Handling: Validate and process user input for location.
+3.GUI Design: Create a user-friendly interface with input fields, weather data displays, and visual elements.
 task 4 includes a config file to extract api key from the file
