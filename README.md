@@ -1,4 +1,4 @@
-# OIBSIP
+# OIBSIP - oasis infobyte internship
 Oasis infobyte python programming internship task files <br>
 I have done 3 tasks during the internship namely <br>
 Task2 - BMI calculator <br>
